@@ -12,7 +12,6 @@ This application accomodates multiple students, and modules are assigned based o
 * **Brian Goh** 
 * **Gordon Lim**
 * **Amey Rathi** 
-* **Amey Rathi** 
 * **Lee Rou Hui** 
 * **Ian Liew** 
 
